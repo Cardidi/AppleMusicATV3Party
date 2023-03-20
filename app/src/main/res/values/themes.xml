@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.AppleMusicForAndroidTV" parent="@style/Theme.Leanback" />
+</resources>
